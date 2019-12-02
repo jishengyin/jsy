@@ -1,0 +1,14 @@
+{
+    "name": "jishengyin/jsy",
+    "description": "test composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jsy",
+            "email": "363987102@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
